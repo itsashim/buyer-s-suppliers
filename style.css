@@ -1,0 +1,470 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.main {
+  color: #ffffff;
+  width: 100%;
+  background-color: #030b1e;
+}
+
+.main-head {
+  font-size: 2.75rem;
+  font-family: "PT Sans", sans-serif;
+  padding: 6rem 0 1rem 10rem;
+}
+.main-paragraph {
+  font-size: 1.5rem;
+  font-family: "PT Sans", sans-serif;
+  padding: 1rem 0 0rem 10rem;
+}
+.main-btn {
+  display: flex;
+  margin-top: 2rem;
+  padding: 0rem 0 5rem 10rem;
+}
+.btn-main2 {
+  margin-left: 1rem;
+}
+.btn-main1 {
+  display: flex;
+  background-color: #018f55;
+  color: #ffffff;
+  font-size: 1rem;
+  font-weight: 550;
+  padding: 0.5rem 1.75rem;
+  border-radius: 8px;
+}
+.call-logo {
+  width: 1.5rem;
+  padding: 0;
+  margin-right: 1rem;
+}
+.btn-main1-p {
+}
+
+.btn-main2 {
+  border-radius: 8px;
+  color: #0252cd;
+  font-size: 1rem;
+  font-weight: 545;
+  background-color: #ffffff;
+  padding: 0.6rem 1.85rem;
+}
+
+.section-1 {
+  padding: 2rem;
+  background-color: #fdfff5;
+}
+.client-logo {
+  margin-left: 2rem;
+  width: 6rem;
+}
+.client-info {
+  display: flex;
+  justify-content: space-between;
+}
+.client-logo-grp1 {
+  margin-top: 1rem;
+  margin-bottom: 1.5rem;
+  display: flex;
+  justify-content: space-between;
+}
+.client-logo-grp2 {
+  margin-bottom: 1.5rem;
+
+  margin-top: 1rem;
+  display: flex;
+  justify-content: space-between;
+}
+.client-logo-grp3 {
+  margin-bottom: 1.5rem;
+
+  margin-top: 1rem;
+  display: flex;
+  justify-content: space-between;
+}
+.client-logo-grp4 {
+  margin-bottom: 1.5rem;
+
+  margin-top: 1rem;
+  display: flex;
+  justify-content: space-between;
+}
+.logo-viewmore {
+  margin-top: 3rem;
+  margin-left: 3rem;
+}
+
+.section-2 {
+  margin: 5rem 10rem;
+}
+.tracking {
+  margin-bottom: 2rem;
+}
+.section-2-head {
+  letter-spacing: 0.25rem;
+  margin-bottom: 2.5rem;
+  font-size: 2rem;
+  color: #333333;
+  font-family: "PT Sans", sans-serif;
+}
+.underline {
+  border-bottom: 0.2rem solid #0066ff;
+}
+
+.section-2-logo {
+  margin-right: 1rem;
+  width: 6rem;
+}
+.section-2-head2 {
+  margin: 1.25rem 0;
+  font-family: "PT Sans", sans-serif;
+  font-size: 1.5rem;
+}
+.section-2-paragraph {
+  width: 90%;
+  color: #333333;
+  font-size: 1.4rem;
+  font-family: "PT Sans", sans-serif;
+}
+.tracking {
+  display: flex;
+}
+.documentation {
+  display: flex;
+}
+.section-2-image {
+  width: 25rem;
+}
+
+.section-3 {
+  padding-top: 3rem;
+  padding-left: 10rem;
+  padding-bottom: 3rem;
+  background-color: #ffffff;
+}
+.section-3-head {
+  word-spacing: 0.3rem;
+  font-size: 2.2rem;
+  font-weight: 600;
+  font-family: "PT Sans", sans-serif;
+  margin-bottom: 1.5rem;
+}
+
+.section-3-paragraph {
+  margin-bottom: 2rem;
+  font-size: 1.5rem;
+  font-family: "PT Sans", sans-serif;
+}
+.section-3-content {
+  margin-bottom: 3rem;
+}
+.section-3-content1 {
+}
+.section-3-logo-book {
+  margin-bottom: 0.9rem;
+  width: 4rem;
+}
+.section-3-content2 {
+  margin-left: 2rem;
+}
+.section-3-logo-communication {
+  margin-bottom: 0.3rem;
+
+  width: 4rem;
+}
+
+.section-3-subhead {
+  margin-bottom: 1.4rem;
+  margin-bottom: 0.5rem;
+  font-family: "PT Sans", sans-serif;
+}
+.section-3-subparagraph {
+  font-size: 1.2rem;
+  font-family: "PT Sans", sans-serif;
+}
+.logo-viewmore-link {
+  font-family: "PT Sans", sans-serif;
+
+  font-size: 1.2rem;
+  text-decoration: none;
+  margin-top: 30rem;
+  margin-left: 1.5rem;
+}
+
+.section-4 {
+  font-family: "PT Sans", sans-serif;
+  color: aliceblue;
+  background-color: #00368a;
+  padding-bottom: 3rem;
+}
+.section-4-image {
+  width: 80%;
+}
+.section-4-content {
+  margin-top: 6rem;
+}
+.section-4-head {
+  font-size: 1.55rem;
+  letter-spacing: 00.05rem;
+  margin-bottom: 3rem;
+}
+.section-4-flex {
+  display: flex;
+  margin-left: 2rem;
+}
+.section-4-flex-span {
+  flex-basis: 15rem;
+  margin-right: 5rem;
+}
+.section-4-head2 {
+  font-size: 2rem;
+  letter-spacing: 0.05rem;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+.section-4-paragraph {
+  margin-bottom: 3rem;
+}
+
+.section-5 {
+  padding: 7rem;
+}
+.section-5-div1 {
+  align-self: center;
+}
+.section-5-paragraph {
+  margin-bottom: 4rem;
+  font-size: 1.5rem;
+  font-family: "PT Sans", sans-serif;
+}
+.section-5-div2 {
+}
+.section-5-image {
+  width: 40rem;
+}
+.section-6 {
+  margin-bottom: 5rem;
+}
+.section-6-image {
+  align-self: center;
+}
+.section-6-content {
+}
+.section-6-content1 {
+  margin-bottom: 4rem;
+}
+.section-6-head {
+  word-spacing: 0.3rem;
+  font-size: 2.2rem;
+  font-weight: 600;
+  font-family: "PT Sans", sans-serif;
+  margin-bottom: 1.5rem;
+}
+.section-6-paragraph {
+  margin-bottom: 2rem;
+  font-size: 1.5rem;
+  font-family: "PT Sans", sans-serif;
+}
+.section-6-subhead {
+  margin-bottom: 1.4rem;
+  margin-bottom: 0.5rem;
+  font-family: "PT Sans", sans-serif;
+}
+.section-6-subparagraph {
+  font-size: 1.4rem;
+  font-family: "PT Sans", sans-serif;
+  margin-bottom: 2.5rem;
+}
+
+.section-6-image-actual {
+  width: 40rem;
+}
+.section-6-content2 {
+  background-color: #0252cd;
+  width: 35rem;
+  border-radius: 1rem;
+  padding-bottom: 2rem;
+}
+
+.curefit-logo {
+  width: 5rem;
+  align-self: flex-start;
+  margin: 1.75rem 1rem 1rem 1.75rem;
+}
+.section-6-content2-paragraph {
+  color: aliceblue;
+  font-family: "PT Sans", sans-serif;
+  font-weight: 600;
+  letter-spacing: 00.1rem;
+  align-self: flex-start;
+  margin: 1.75rem;
+}
+.section-6-content2-link {
+  font-family: "PT Sans", sans-serif;
+  margin-left: 1.75rem;
+  color: aliceblue;
+  text-decoration: none;
+}
+
+.section-7 {
+  font-family: "PT Sans", sans-serif;
+  color: #292929;
+  background-color: #e9f4ff;
+  padding: 4rem 0;
+}
+.section-7-content1-head {
+  font-size: 2.2rem;
+  letter-spacing: 0.1rem;
+  margin-bottom: 1.7rem;
+}
+.section-7-content1-paragraph {
+  color: #292a32;
+  font-size: 1.4rem;
+  margin-bottom: 2.75rem;
+}
+.section-7-content1-btn {
+  font-size: 1rem;
+  font-weight: 500;
+  background-color: #0066ff;
+  color: aliceblue;
+  border: 1px solid #0066ff;
+  padding: 0.5rem 2rem;
+  border-radius: 5px;
+}
+
+.section-7-content2-span {
+  border-left: 3px solid #0066ff;
+  padding-left: 2rem;
+}
+.section-7-content2-span-head {
+  margin-bottom: 0.75rem;
+  font-size: 2rem;
+  letter-spacing: 0.01rem;
+}
+.section-7-content2-span-head2 {
+  color: #292a32;
+  text-transform: uppercase;
+  font-size: 1.25rem;
+  font-weight: 200;
+  margin-bottom: 1rem;
+}
+.section-8 {
+  background-color: #2a6fdb;
+  font-family: "PT Sans", sans-serif;
+}
+.section-8-div1 {
+  align-self: center;
+  padding-right: 8rem;
+}
+.section-8-div1-head {
+  font-size: 2rem;
+  margin: 2rem;
+}
+.sec-8-div1-p {
+  font-size: 1.3rem;
+  margin-bottom: 2rem;
+}
+.section-8-div2 {
+  background-color: #ffffff;
+  width: 28rem;
+}
+/* .flex {
+  display: flex;
+} */
+.white_color {
+  color: #ffffff;
+}
+/* mobile first layout */
+@media (min-width: 1000px) {
+  .flex {
+    display: flex;
+  }
+  .main {
+  }
+
+  .section-1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  /* .section-2-description {
+    width: 55rem;
+  } */
+
+  .client-info {
+    margin-left: 1rem;
+  }
+  .section-2 {
+    display: flex;
+    justify-content: center;
+  }
+  .section-2-image {
+    width: 30rem;
+  }
+  .section-2-image-div {
+    align-self: flex-end;
+  }
+  .section-5 {
+    display: flex;
+  }
+  .section-6 {
+    display: flex;
+  }
+  .section-7 {
+    display: flex;
+    justify-content: center;
+  }
+  .section-7-content1 {
+    flex-basis: 40rem;
+  }
+  .section-8 {
+    display: flex;
+    justify-content: center;
+    width: 70rem;
+    border-radius: 10px;
+  }
+  .section-4 {
+    display: flex;
+  }
+  .section-8-div1 {
+  }
+  .section-8-div2 {
+    border: 4px solid #2a6fdb;
+    border-radius: 20px;
+  }
+  .section-8-div2-head {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+  }
+  .form {
+    box-shadow: none;
+    border-radius: 0.3rem;
+    width: 24rem;
+    padding: 0.7rem 1.3rem;
+    margin: 0.4rem 3rem 0.4rem 2rem;
+  }
+  .sec-8-btn {
+    border: none;
+    border-radius: 0.5rem;
+    width: 24rem;
+    padding: 0.75rem;
+    margin: 0.4rem 3rem 0rem 2rem;
+
+    background-color: #0252cd;
+    font-size: 1rem;
+    font-weight: 600;
+    color: #ffffff;
+  }
+  .sec-8-par {
+    font-size: 0.9rem;
+    margin: 0rem 3rem 0rem 2rem;
+  }
+  .block-center {
+    display: block;
+    width: 70rem;
+    margin: 8rem auto;
+  }
+}
